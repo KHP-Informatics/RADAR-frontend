@@ -76,7 +76,7 @@
     "@angular/cli": "^7.3.8",
     "@angular/compiler-cli": "^7.2.14",
     "@angular/language-service": "^6.0.7",
-    "@ngrx/schematics": "^6.1.0",
+    "@ngrx/schematics": "^12.2.0",
     "@ngrx/store-devtools": "^6.1.0",
     "@types/d3": "^5.7.2",
     "@types/hammerjs": "^2.0.35",

@@ -367,10 +367,10 @@
   resolved "https://registry.yarnpkg.com/@ngrx/router-store/-/router-store-6.1.2.tgz#63bfcd3710c53ea2c5456b82c57fd433e5af25bc"
   integrity sha512-sj083ZYrx0aY+vU/t8Ub0KYDHcMpatXJIOJR/eDNSuH54fPiBM9MrdI3hs/XHoXHxSaHOJoZ7f6I8XcUeptxyA==
 
-"@ngrx/schematics@^6.1.0":
-  version "6.1.2"
-  resolved "https://registry.yarnpkg.com/@ngrx/schematics/-/schematics-6.1.2.tgz#52dce7f2d4275791732805576eaf007d1043ef58"
-  integrity sha512-hiu8rdYAJIfIoJHPlAJr+mBkXab7OLRyg8Z/i5lUpmE382yvESfcVI9hqYsGXWBbyfY5Al+BGzGhBth5gc5AvA==
+"@ngrx/schematics@^12.2.0":
+  version "12.2.0"
+  resolved "https://registry.yarnpkg.com/@ngrx/schematics/-/schematics-12.2.0.tgz#09b0b36b8479adfee4997ee8721abbf582c09bff"
+  integrity sha512-SYgZekBW3jeHQ6FiknFzU9/ayNc8JT0Q4zvpwrFBThbf3hjLAv5W3oARHqObK51T+4KZf2g7QJB2DniJl6rtcw==
 
 "@ngrx/store-devtools@^6.1.0":
   version "6.1.2"
